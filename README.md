@@ -1,6 +1,7 @@
 # Face_recognition
 
-누구의 사진인지 판별해주는 프로그램<br/> 
+## 누구의 사진인지 판별해주는 프로그램<br/> 
+docker + ssh 서버 사용
 
 pip install opencv-python<br/> 
 pip install opencv-contrib-python<br/> 
