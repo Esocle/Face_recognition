@@ -104,6 +104,5 @@ class FaceRecog():
 
 if __name__ == '__main__':
     face_recog = FaceRecog()
-    cnt = 1
-    results = face_recog.get_frame('video/yang.mp4')
+    results = face_recog.get_frame('video/V.mp4')
     print(f'{results}%')        # 정확도
